@@ -1,14 +1,13 @@
 # HiHi Recipe 
 
-![CI/CD](https://github.com/software-students-spring2025/5-final-hihi/actions/workflows/cicd.yaml/badge.svg)
+![CI/CD](https://github.com/shuyuanyyy/hihi-recipe/blob/main/.github/workflows/cicd.yaml/badge.svg)
 
 ---
 
 ## Team Members ✏️
-- **Eli Sun**: [IDislikeName](https://github.com/IDislikeName)
+- **Shuyuan Yang**: [shuyuanyyy](https://github.com/shuyuanyyy)
 - **Jasmine Zhang**: [Jasminezhang666666](https://github.com/Jasminezhang666666)
 - **Yifan Zhang**: [YifanZZZZZZ](https://github.com/YifanZZZZZZ)
-- **Shuyuan Yang**: [shuyuanyyy](https://github.com/shuyuanyyy)
 
 ---
 
