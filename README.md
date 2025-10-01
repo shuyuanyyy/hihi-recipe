@@ -1,6 +1,6 @@
 # HiHi Recipe 
 
-![CI/CD](https://github.com/shuyuanyyy/hihi-recipe/blob/main/.github/workflows/cicd.yaml/badge.svg)
+![CI/CD](https://github.com/shuyuanyyy/hihi-recipe/actions/workflows/cicd.yaml/badge.svg)
 
 ---
 
