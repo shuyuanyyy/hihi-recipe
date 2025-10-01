@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 import json
-from bson import ObjectId
 from pprint import pprint
+from bson import ObjectId
 
 class JSONEncoder(json.JSONEncoder):
     def default(self, o):
